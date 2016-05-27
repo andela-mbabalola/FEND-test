@@ -1,0 +1,11 @@
+{
+  "files": [
+    { "name": "Hammerstein Ballroom Panoramas", "file_type": "spreadsheet", "last_modified": "2016-05-13", "collaborative": true },
+    { "name": "Citi Field Panorama Estimate", "file_type": "spreadsheet", "last_modified": "2016-05-13", "collaborative": false },
+    { "name": "stats", "file_type": "spreadsheet", "last_modified": "2016-05-13", "collaborative": false },
+    { "name": "My TODOs", "file_type": "text", "last_modified": "2016-05-12", "collaborative": false },
+    { "name": "Repeat Purchases", "file_type": "spreadsheet", "last_modified": "2016-05-11", "collaborative": true },
+    { "name": "X-event Search todos/issues", "file_type": "spreadsheet", "last_modified": "2016-05-11", "collaborative": true },
+    { "name": "Leaflet todos/issues", "file_type": "spreadsheet", "last_modified": "2016-05-11", "collaborative": true }
+  ]
+}
